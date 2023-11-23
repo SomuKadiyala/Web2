@@ -1,0 +1,24 @@
+{
+  "name": "somu",
+  "version": "1.0.0",
+  "description": "web application",
+  "main": "money tracker",
+  "scripts": {
+    "test": "npm init ",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "somunaidukadiyala@gmail.com"
+  },
+  "keywords": [
+    "NA"
+  ],
+  "author": "Somu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1"
+  }
+}
